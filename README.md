@@ -15,3 +15,10 @@ If you are developing a production application, we recommend using TypeScript wi
 
 A simple and responsive To-Do List web app built using React (or HTML/CSS/JS, jo bhi use kiya ho).  
 You can add, delete, and mark tasks as complete.
+
+## ✨ Features
+
+- Add new tasks
+- Delete tasks
+- Mark tasks as completed (line-through)
+- Unique ID for each task
