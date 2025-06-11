@@ -13,7 +13,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # 📝 To-Do List App
 
-A simple and responsive To-Do List web app built using React (or HTML/CSS/JS, jo bhi use kiya ho).  
+A simple and responsive To-Do List web app built using React
 You can add, delete, and mark tasks as complete.
 
 ## ✨ Features
